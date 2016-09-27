@@ -3,6 +3,8 @@
 		<link rel='stylesheet' href="css/bootstrap.css">
 	</head>
 	<body>
-		<button class='btn btn-danger'>Red Button daw ni</button>
+		<button class='btn btn-danger'>
+			<i class='glyphicon glyphicon-remove'></i>
+		</button>
 	</body>
 </html>
